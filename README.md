@@ -15,9 +15,6 @@ It extracts key health indicators from blood reports, interprets values, and gen
 
 🚀 **Try the app live:** [Blood Report Analyzer on Hugging Face Spaces](https://huggingface.co/spaces/vijaykumar1372/blood_report_analyser)
 
-> ⚠️ **Note:** Web scraping features (if used for reference data) may not work properly on Hugging Face Spaces due to environment limitations.  
-> 🖥️ For full functionality, please run the app locally if needed.
-
 ## Tech Stack
 
 - **Web Framework:** Gradio  
